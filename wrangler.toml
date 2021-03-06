@@ -1,0 +1,10 @@
+name = "gat"
+type = "webpack"
+account_id = "7fbf1544348bb6e4c6a460992560585f"
+workers_dev = false
+zone_id = "d2027528f8ce302ccf1dccfdec8bccb4"
+route = "moki.cat/*"
+
+[site]
+bucket = "./build"
+entry-point = "workers-site"
